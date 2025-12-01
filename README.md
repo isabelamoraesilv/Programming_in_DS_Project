@@ -10,15 +10,7 @@ This project applies the **Knowledge Discovery in Databases (KDD)** process to a
 
 We move beyond simple statistics to implement **Data Mining algorithms** (Linear Regression, K-Means Clustering) and **Data Enrichment** (via external APIs) to produce a fully interactive **Analytical Dashboard**.
 
-**Course:** Programming for Data Science (MESIIN471625)
-
-## 👥 Team Members
-
-* **Isabela MORA** (Project Leader)
-* **Mathieu MAURY**
-* **Paul MILLIEN**
-* **Yannix MICHOUX**
-
+**Course:** Programming for Data Science 
 ---
 
 ## ⚙️ The KDD Process
